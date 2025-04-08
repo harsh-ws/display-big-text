@@ -1,17 +1,15 @@
-# testproject
+# Big Text
 
-A new Flutter project.
+A simple utility app that lets users type a message in large text,
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This is a simple utility app that lets users type a message in large text, flip it full screen, and show it—great for things like taxi signs, event boards, or quick attention-grabbing messages.
 
-A few resources to get you started if this is your first Flutter project:
+🔍 Key Features of the App:
+Text Input Field – User types a message.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Preview Button – Tap to show the text in fullscreen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# big-text
+Fullscreen Display – Message appears centered in large font with high contrast.
+
