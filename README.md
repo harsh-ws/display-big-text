@@ -1,4 +1,4 @@
-# Big Text
+# Display Big Text
 
 A simple utility app that lets users type a message in large text,
 
