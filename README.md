@@ -7,6 +7,7 @@ A simple utility app that lets users type a message in large text,
 This is a simple utility app that lets users type a message in large text, flip it full screen, and show it—great for things like taxi signs, event boards, or quick attention-grabbing messages.
 
 🔍 Key Features of the App:
+
 Text Input Field – User types a message.
 
 Preview Button – Tap to show the text in fullscreen.
